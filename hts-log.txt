@@ -1,0 +1,337 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Mar 2026 03:05:55 at https://www.giridhareye.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.giridhareye.org/ -O1 "C:\My Web Sites\doctorClone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:07:27	Error: 	"Not Found" (404) at link https://www.giridhareye.org/touch-icon76.png (from https://www.giridhareye.org/)
+03:07:27	Error: 	"Not Found" (404) at link https://www.giridhareye.org/touch-icon120.png (from https://www.giridhareye.org/)
+03:07:27	Error: 	"Not Found" (404) at link https://www.giridhareye.org/touch-icon152.png (from https://www.giridhareye.org/)
+03:07:27	Error: 	"Not Found" (404) at link https://www.giridhareye.org/touch-icon180.png (from https://www.giridhareye.org/)
+03:07:27	Error: 	"Not Found" (404) at link https://www.giridhareye.org/touch-icon192.png (from https://www.giridhareye.org/)
+03:07:30	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.giridhareye.org/)
+03:07:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/plugins/team-ultimate-premium/public/css/owl.video.play.png (from https://www.giridhareye.org/)
+03:07:42	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/Giridhar-Eye-Institute-Logo-300x75.png (from https://www.giridhareye.org/)
+03:08:46	Warning: 	Moved Permanently for https://www.giridhareye.org/cornea-laser-correction/
+03:08:46	Warning: 	File has moved from https://www.giridhareye.org/cornea-laser-correction/ to https://www.giridhareye.org/specialities/cornea-laser-correction/
+03:08:54	Warning: 	Moved Permanently for https://www.giridhareye.org/paediatric-squint-neuro-ophtal/
+03:08:54	Warning: 	File has moved from https://www.giridhareye.org/paediatric-squint-neuro-ophtal/ to https://www.giridhareye.org/specialities/paediatric-squint-neuro-ophtal/
+03:11:49	Error: 	"Not Found" (404) at link https://www.giridhareye.org/services/precition-scanning-imaging-systems/ (from https://www.giridhareye.org/)
+03:11:49	Error: 	"Not Found" (404) at link https://www.giridhareye.org/doctors/ (from https://www.giridhareye.org/)
+03:11:52	Error: 	"Not Found" (404) at link https://www.giridhareye.org/https:/www.giridhareye.org/wp-content/uploads/2024/10/youtube-img-1-scaled.jpg (from https://www.giridhareye.org/)
+03:12:09	Error: 	"Error when decompressing" (-1) at link https://www.giridhareye.org/𝗦𝘂𝗷𝗮𝘁𝗮-𝗦𝗮𝘃𝗶𝘁𝗿𝗶-𝗥𝗮𝗼/ (from https://www.giridhareye.org/)
+03:12:23	Error: 	"Error when decompressing" (-1) at link https://www.giridhareye.org/✨-giridhar-eye-institute-celebrates-28-glorious-years-of-service-✨/ (from https://www.giridhareye.org/)
+03:12:23	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/08/giridhar-footer-logo.png (from https://www.giridhareye.org/)
+03:12:29	Error: 	"Not Found" (404) at link https://www.giridhareye.org/sitemap.html (from https://www.giridhareye.org/)
+03:12:29	Error: 	"Bad Request" (400) at link https://www.giridhareye.org/wp-admin/admin-ajax.php (from https://www.giridhareye.org/)
+03:12:30	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=1470
+03:12:30	Warning: 	File has moved from https://www.giridhareye.org/?p=1470 to https://www.giridhareye.org/our-centers/
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/contact-us/ (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/our-centers/https:/www.giridhareye.org/wp-content/uploads/2025/05/IMG_6453-copy-4-scaled.jpg (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/our-centers/https:/www.giridhareye.org/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-11-at-4.17.02-PM.jpeg (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/our-centers/https:/www.giridhareye.org/wp-content/uploads/2025/01/2023-08-19.png (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/our-centers/https:/www.giridhareye.org/wp-content/uploads/2025/01/1689147820793-1.jpg (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/our-centers/https:/gei.thomsuninfocare.com/wp-content/uploads/2024/09/giridhar-hospital.jpg (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Not Found" (404) at link https://www.giridhareye.org/our-centers/https:/gei.thomsuninfocare.com/wp-content/uploads/2024/09/giridhar-2.png (from https://www.giridhareye.org/our-centers/)
+03:12:30	Error: 	"Error when decompressing" (-1) at link https://www.giridhareye.org/contact-us (from https://www.giridhareye.org/our-centers/)
+03:12:30	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=12
+03:12:30	Warning: 	File has moved from https://www.giridhareye.org/?p=12 to https://www.giridhareye.org/eye-doctors-in-kochi/
+03:14:46	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2063
+03:14:46	Warning: 	File has moved from https://www.giridhareye.org/?p=2063 to https://www.giridhareye.org/specialities/
+03:14:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/banner-img4.png (from https://www.giridhareye.org/specialities/)
+03:14:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/vitreo-retina.jpg (from https://www.giridhareye.org/specialities/)
+03:14:46	Error: 	"Not Found" (404) at link https://www.giridhareye.org/vitreo-retina/ (from https://www.giridhareye.org/specialities/)
+03:14:48	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/oculoplasty.jpg (from https://www.giridhareye.org/specialities/)
+03:14:52	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/caratct-glaucoma.jpg (from https://www.giridhareye.org/specialities/)
+03:14:52	Error: 	"Not Found" (404) at link https://www.giridhareye.org/cataract-glaucoma/ (from https://www.giridhareye.org/specialities/)
+03:14:56	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/anaesthesia-infection-rotated.jpg (from https://www.giridhareye.org/specialities/)
+03:14:58	Error: 	"Not Found" (404) at link https://www.giridhareye.org/specialities/electro-retinography/ (from https://www.giridhareye.org/specialities/)
+03:15:02	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2093
+03:15:02	Warning: 	File has moved from https://www.giridhareye.org/?p=2093 to https://www.giridhareye.org/specialities/cataract-surgery-in-kochi/
+03:15:02	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/08/event2.jpg (from https://www.giridhareye.org/specialities/cataract-surgery-in-kochi/)
+03:15:02	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=9921
+03:15:02	Warning: 	File has moved from https://www.giridhareye.org/?p=9921 to https://www.giridhareye.org/specialities/glaucoma-treatement-in-kochi/
+03:15:02	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2094
+03:15:02	Warning: 	File has moved from https://www.giridhareye.org/?p=2094 to https://www.giridhareye.org/specialities/retina-doctors-in-kochi/
+03:15:02	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2108
+03:15:02	Warning: 	File has moved from https://www.giridhareye.org/?p=2108 to https://www.giridhareye.org/specialities/orbit-oculoplasty/
+03:15:02	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/oculoplasty-banner.png (from https://www.giridhareye.org/specialities/orbit-oculoplasty/)
+03:15:02	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/oculoplasty-banner-1.png (from https://www.giridhareye.org/specialities/orbit-oculoplasty/)
+03:15:03	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2820
+03:15:03	Warning: 	File has moved from https://www.giridhareye.org/?p=2820 to https://www.giridhareye.org/specialities/uvea-services/
+03:15:03	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/gei-mattancherry.jpg (from https://www.giridhareye.org/specialities/uvea-services/)
+03:15:03	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/08/sight-restoring.jpg (from https://www.giridhareye.org/specialities/uvea-services/)
+03:15:03	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2109
+03:15:03	Warning: 	File has moved from https://www.giridhareye.org/?p=2109 to https://www.giridhareye.org/specialities/community-ophthalmology/
+03:15:03	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2110
+03:15:03	Warning: 	File has moved from https://www.giridhareye.org/?p=2110 to https://www.giridhareye.org/specialities/general-ophthalmology/
+03:15:03	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2097
+03:15:03	Warning: 	File has moved from https://www.giridhareye.org/?p=2097 to https://www.giridhareye.org/specialities/paediatric-squint-neuro-ophtal/
+03:15:03	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/paediatric-banner-1.png (from https://www.giridhareye.org/specialities/paediatric-squint-neuro-ophtal/)
+03:15:03	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2095
+03:15:03	Warning: 	File has moved from https://www.giridhareye.org/?p=2095 to https://www.giridhareye.org/specialities/cornea-laser-correction/
+03:15:04	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10628
+03:15:04	Warning: 	File has moved from https://www.giridhareye.org/?p=10628 to https://www.giridhareye.org/ocular-oncology/
+03:15:04	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2828
+03:15:04	Warning: 	File has moved from https://www.giridhareye.org/?p=2828 to https://www.giridhareye.org/keratoconus-clinic/
+03:15:04	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/vitreo-bannerpng.png (from https://www.giridhareye.org/keratoconus-clinic/)
+03:15:04	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2837
+03:15:04	Warning: 	File has moved from https://www.giridhareye.org/?p=2837 to https://www.giridhareye.org/low-vision-aid-clinic/
+03:15:04	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2842
+03:15:04	Warning: 	File has moved from https://www.giridhareye.org/?p=2842 to https://www.giridhareye.org/ocular-prosthetic-clinic/
+03:15:04	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2849
+03:15:04	Warning: 	File has moved from https://www.giridhareye.org/?p=2849 to https://www.giridhareye.org/binocular-vision-clinic/
+03:15:04	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/glaucoma-care.jpg (from https://www.giridhareye.org/binocular-vision-clinic/)
+03:15:04	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/contact-lens.png (from https://www.giridhareye.org/binocular-vision-clinic/)
+03:15:04	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/contact-lens.jpg (from https://www.giridhareye.org/contact-lens-clinic/)
+03:15:05	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2854
+03:15:05	Warning: 	File has moved from https://www.giridhareye.org/?p=2854 to https://www.giridhareye.org/contact-lens-clinic/
+03:15:05	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=1556
+03:15:05	Warning: 	File has moved from https://www.giridhareye.org/?p=1556 to https://www.giridhareye.org/about-us/
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/08/kadavathra.jpg (from https://www.giridhareye.org/about-us/)
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/jobbanner.png (from https://www.giridhareye.org/about-us/)
+03:15:05	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=1591
+03:15:05	Warning: 	File has moved from https://www.giridhareye.org/?p=1591 to https://www.giridhareye.org/history/
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/08/giridhar-pics-hanging.png (from https://www.giridhareye.org/history/)
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/08/iso-registration.png (from https://www.giridhareye.org/history/)
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/cropped-Giridhar-Eye-Institute-Logo.png (from https://www.giridhareye.org/history/)
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/nabh-logo.png (from https://www.giridhareye.org/history/)
+03:15:05	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/history-11.jpg (from https://www.giridhareye.org/history/)
+03:15:05	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2138
+03:15:05	Warning: 	File has moved from https://www.giridhareye.org/?p=2138 to https://www.giridhareye.org/mission-vision/
+03:15:05	Error: 	"Not Found" (404) at link https://www.giridhareye.org/mission-vision/%22data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20preserveAspectRatio%3D%22none%22%20overflow%3D%22visible%22%20height%3D%22100%25%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22square%22%20stroke-miterlimit%3D%2210%22%3E%3Cpath%20d%3D%22M0%2C6c6%2C0%2C0.9%2C11.1%2C6.9%2C11.1S18%2C6%2C24%2C6%22%2F%3E%3C%2Fsvg%3E (from https://www.giridhareye.org/mission-vision/)
+03:15:05	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5868
+03:15:05	Warning: 	File has moved from https://www.giridhareye.org/?p=5868 to https://www.giridhareye.org/team/
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Harikumar-G.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Murukan-P-V.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/philip-Koshy.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Rajani-R.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Liya-Nidhin.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Jasmine-P-C.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Rinu-MAthew.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Pradeep-pv.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/Murali-Krishnan.jpg (from https://www.giridhareye.org/team/)
+03:15:08	Error: 	"Error when decompressing" (-1) at link https://www.giridhareye.org/doctors (from https://www.giridhareye.org/team/)
+03:15:09	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2139
+03:15:09	Warning: 	File has moved from https://www.giridhareye.org/?p=2139 to https://www.giridhareye.org/leadership/
+03:15:09	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2066
+03:15:09	Warning: 	File has moved from https://www.giridhareye.org/?p=2066 to https://www.giridhareye.org/resources/
+03:15:09	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2089
+03:15:09	Warning: 	File has moved from https://www.giridhareye.org/?p=2089 to https://www.giridhareye.org/careers/
+03:15:31	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=1797
+03:15:31	Warning: 	File has moved from https://www.giridhareye.org/?p=1797 to https://www.giridhareye.org/faqs/
+03:15:31	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=1834
+03:15:31	Warning: 	File has moved from https://www.giridhareye.org/?p=1834 to https://www.giridhareye.org/expert-eye-care-eye-hospital-near-me-kochi/
+03:15:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/expert-eye-care-eye-hospital-near-me-kochi/Eye Hospital in Thripunithura (from https://www.giridhareye.org/expert-eye-care-eye-hospital-near-me-kochi/)
+03:15:31	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/slider-2-scaled.jpg (from https://www.giridhareye.org/expert-eye-care-eye-hospital-near-me-kochi/)
+03:15:31	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2140
+03:15:31	Warning: 	File has moved from https://www.giridhareye.org/?p=2140 to https://www.giridhareye.org/fellowship/
+03:15:32	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2141
+03:15:32	Warning: 	File has moved from https://www.giridhareye.org/?p=2141 to https://www.giridhareye.org/education-training/
+03:15:32	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/2024/11/team-banner.png (from https://www.giridhareye.org/education-training/)
+03:15:32	Error: 	"Not Found" (404) at link https://www.giridhareye.org/education-training/https:/www.giridhareye.org/wp-content/uploads/2025/04/doctor-in-mask-at-hospital-2025-02-11-18-51-38-utc-1.jpg (from https://www.giridhareye.org/education-training/)
+03:15:35	Error: 	"Not Found" (404) at link https://www.giridhareye.org/education-training/https:/www.giridhareye.org/wp-content/uploads/2025/04/retina-doctor.jpg (from https://www.giridhareye.org/education-training/)
+03:15:39	Error: 	"Not Found" (404) at link https://www.giridhareye.org/education-training/https:/www.giridhareye.org/wp-content/uploads/2025/04/pediatrician.jpg (from https://www.giridhareye.org/education-training/)
+03:15:39	Warning: 	Moved Permanently for https://www.giridhareye.org/clinical-optometry-fellowship/
+03:15:39	Warning: 	File has moved from https://www.giridhareye.org/clinical-optometry-fellowship/ to https://www.giridhareye.org/education-training/clinical-optometry-fellowship/
+03:15:39	Error: 	"Not Found" (404) at link https://www.giridhareye.org/education-training/https:/www.giridhareye.org/wp-content/uploads/2025/04/doctor-ophthalmology.jpg (from https://www.giridhareye.org/education-training/)
+03:15:39	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=2049
+03:15:39	Warning: 	File has moved from https://www.giridhareye.org/?p=2049 to https://www.giridhareye.org/services/
+03:15:39	Error: 	"Not Found" (404) at link https://www.giridhareye.org/services/https:/www.giridhareye.org/wp-content/uploads/2024/11/bannerimg.jpg (from https://www.giridhareye.org/services/)
+03:15:43	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5714
+03:15:43	Warning: 	File has moved from https://www.giridhareye.org/?p=5714 to https://www.giridhareye.org/services/in-patient-services/
+03:15:43	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5790
+03:15:43	Warning: 	File has moved from https://www.giridhareye.org/?p=5790 to https://www.giridhareye.org/services/ocular-trauma-clinic/
+03:15:43	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5799
+03:15:43	Warning: 	File has moved from https://www.giridhareye.org/?p=5799 to https://www.giridhareye.org/services/orthoptic-evaluation/
+03:15:43	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/09/general-banner.png (from https://www.giridhareye.org/services/orthoptic-evaluation/)
+03:15:44	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5772
+03:15:44	Warning: 	File has moved from https://www.giridhareye.org/?p=5772 to https://www.giridhareye.org/services/out-patient-services/
+03:15:44	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5783
+03:15:44	Warning: 	File has moved from https://www.giridhareye.org/?p=5783 to https://www.giridhareye.org/services/precision-scanning-imaging-systems/
+03:15:44	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10232
+03:15:44	Warning: 	File has moved from https://www.giridhareye.org/?p=10232 to https://www.giridhareye.org/lasik-surgery-keralas-first-wavelight-plus-innoveyes/
+03:15:46	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=4211
+03:15:46	Warning: 	File has moved from https://www.giridhareye.org/?p=4211 to https://www.giridhareye.org/education-training/medical-retina-fellowship/
+03:15:46	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=1673
+03:15:46	Warning: 	File has moved from https://www.giridhareye.org/?p=1673 to https://www.giridhareye.org/commentary-all-india-ophthalmological-society-members-survey-practice-pattern-of-intravitreal-anti-vascular-endothelial-growth-factor-injection-has-been-published-in-indian-journal-of-ophthalm/
+03:15:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/07/vcr-eye-retina.png (from https://www.giridhareye.org/commentary-all-india-ophthalmological-society-members-survey-practice-pattern-of-intravitreal-anti-vascular-endothelial-growth-factor-injection-has-been-published-in-indian-journal-of-ophthalm/)
+03:15:46	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=123
+03:15:46	Warning: 	File has moved from https://www.giridhareye.org/?p=123 to https://www.giridhareye.org/breaking-free-from-limiting-beliefs-the-power-of-positive-mindset/
+03:15:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2023/02/dr-anna-arvo1.jpeg (from https://www.giridhareye.org/breaking-free-from-limiting-beliefs-the-power-of-positive-mindset/)
+03:15:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2023/02/dr-anna-arvo2.jpeg (from https://www.giridhareye.org/breaking-free-from-limiting-beliefs-the-power-of-positive-mindset/)
+03:15:46	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=121
+03:15:46	Warning: 	File has moved from https://www.giridhareye.org/?p=121 to https://www.giridhareye.org/building-stronger-connections-and-improving-communication/
+03:15:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2023/02/dr-mahesh-jl2.png (from https://www.giridhareye.org/building-stronger-connections-and-improving-communication/)
+03:15:46	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2023/02/dr-mahesh-jl3.png (from https://www.giridhareye.org/building-stronger-connections-and-improving-communication/)
+03:15:47	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10721
+03:15:47	Warning: 	File has moved from https://www.giridhareye.org/?p=10721 to https://www.giridhareye.org/aioc-s-s-badrinath-endowment-award/
+03:15:47	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10502
+03:15:47	Warning: 	File has moved from https://www.giridhareye.org/?p=10502 to https://www.giridhareye.org/annual-community-focus/
+03:15:47	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10487
+03:15:47	Warning: 	File has moved from https://www.giridhareye.org/?p=10487 to https://www.giridhareye.org/new-lasik-machine-keralas-first-wavelight-plus-innoveyes-started-functioning/
+03:15:47	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10133
+03:15:47	Warning: 	File has moved from https://www.giridhareye.org/?p=10133 to https://www.giridhareye.org/opai-2026-36th-annual-conference-of-the-oculoplastics-association-of-india/
+03:15:47	Error: 	"Not Found" (404) at link https://www.giridhareye.org/opai-2026-36th-annual-conference-of-the-oculoplastics-association-of-india/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/opai-2026-36th-annual-conference-of-the-oculoplastics-association-of-india/)
+03:15:47	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/2025/10/WhatsApp-Image-2025-11-07-at-5.53.22-PM-1024x576.jpeg (from https://www.giridhareye.org/opai-2026-36th-annual-conference-of-the-oculoplastics-association-of-india/)
+03:15:48	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6899
+03:15:48	Warning: 	File has moved from https://www.giridhareye.org/?p=6899 to https://www.giridhareye.org/privacy/
+03:15:48	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6906
+03:15:48	Warning: 	File has moved from https://www.giridhareye.org/?p=6906 to https://www.giridhareye.org/security/
+03:15:48	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6283
+03:15:48	Warning: 	File has moved from https://www.giridhareye.org/?p=6283 to https://www.giridhareye.org/dr-giridhar-a/
+03:15:48	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-giridhar-a/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-giridhar-a/)
+03:15:48	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6321
+03:15:48	Warning: 	File has moved from https://www.giridhareye.org/?p=6321 to https://www.giridhareye.org/dr-mahesh-g/
+03:15:48	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-mahesh-g/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-mahesh-g/)
+03:15:49	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6323
+03:15:49	Warning: 	File has moved from https://www.giridhareye.org/?p=6323 to https://www.giridhareye.org/dr-thomas-kuriakose/
+03:15:49	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-thomas-kuriakose/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-thomas-kuriakose/)
+03:15:49	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6330
+03:15:49	Warning: 	File has moved from https://www.giridhareye.org/?p=6330 to https://www.giridhareye.org/dr-jyoti-prakash-vyas/
+03:15:49	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6332
+03:15:49	Warning: 	File has moved from https://www.giridhareye.org/?p=6332 to https://www.giridhareye.org/dr-anubhav-goyal/
+03:15:49	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-anubhav-goyal/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-anubhav-goyal/)
+03:15:49	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6325
+03:15:49	Warning: 	File has moved from https://www.giridhareye.org/?p=6325 to https://www.giridhareye.org/dr-lekha-t/
+03:15:50	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10208
+03:15:50	Warning: 	File has moved from https://www.giridhareye.org/?p=10208 to https://www.giridhareye.org/dr_sneha_giridhar/
+03:15:50	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10215
+03:15:50	Warning: 	File has moved from https://www.giridhareye.org/?p=10215 to https://www.giridhareye.org/dr_adheesh_prashanth_shetty/
+03:15:50	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6334
+03:15:50	Warning: 	File has moved from https://www.giridhareye.org/?p=6334 to https://www.giridhareye.org/dr-kiran-chandran/
+03:15:50	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6336
+03:15:50	Warning: 	File has moved from https://www.giridhareye.org/?p=6336 to https://www.giridhareye.org/dr-vishakh-kumar/
+03:15:50	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-vishakh-kumar/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-vishakh-kumar/)
+03:15:51	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6301
+03:15:51	Warning: 	File has moved from https://www.giridhareye.org/?p=6301 to https://www.giridhareye.org/dr-saikumar/
+03:15:51	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-saikumar/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-saikumar/)
+03:15:51	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6377
+03:15:51	Warning: 	File has moved from https://www.giridhareye.org/?p=6377 to https://www.giridhareye.org/dr-sandhya-n/
+03:15:51	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-sandhya-n/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-sandhya-n/)
+03:15:51	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6344
+03:15:51	Warning: 	File has moved from https://www.giridhareye.org/?p=6344 to https://www.giridhareye.org/dr-sara-jacob/
+03:15:51	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-sara-jacob/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-sara-jacob/)
+03:15:51	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6371
+03:15:51	Warning: 	File has moved from https://www.giridhareye.org/?p=6371 to https://www.giridhareye.org/dr-kalaimathi-g-s/
+03:15:51	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6355
+03:15:51	Warning: 	File has moved from https://www.giridhareye.org/?p=6355 to https://www.giridhareye.org/dr-poornima-sheba-abraham/
+03:15:51	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-poornima-sheba-abraham/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-poornima-sheba-abraham/)
+03:15:52	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6358
+03:15:52	Warning: 	File has moved from https://www.giridhareye.org/?p=6358 to https://www.giridhareye.org/dr-lakshmi-j/
+03:15:52	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-lakshmi-j/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-lakshmi-j/)
+03:15:52	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6367
+03:15:52	Warning: 	File has moved from https://www.giridhareye.org/?p=6367 to https://www.giridhareye.org/dr-gilu-george/
+03:15:52	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6374
+03:15:52	Warning: 	File has moved from https://www.giridhareye.org/?p=6374 to https://www.giridhareye.org/dr-vanashree-m-nair/
+03:15:53	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6361
+03:15:53	Warning: 	File has moved from https://www.giridhareye.org/?p=6361 to https://www.giridhareye.org/dr-tintu-susan-joy/
+03:15:53	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6364
+03:15:53	Warning: 	File has moved from https://www.giridhareye.org/?p=6364 to https://www.giridhareye.org/dr-juhy-cherian/
+03:15:53	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-juhy-cherian/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-juhy-cherian/)
+03:15:53	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6352
+03:15:53	Warning: 	File has moved from https://www.giridhareye.org/?p=6352 to https://www.giridhareye.org/dr-manju-anup/
+03:15:54	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6382
+03:15:54	Warning: 	File has moved from https://www.giridhareye.org/?p=6382 to https://www.giridhareye.org/dr-vinay-sukumara-pillai/
+03:15:54	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6386
+03:15:54	Warning: 	File has moved from https://www.giridhareye.org/?p=6386 to https://www.giridhareye.org/dr-sugaranjini-g/
+03:15:54	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6390
+03:15:54	Warning: 	File has moved from https://www.giridhareye.org/?p=6390 to https://www.giridhareye.org/dr-divya-giridhar/
+03:15:55	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6398
+03:15:55	Warning: 	File has moved from https://www.giridhareye.org/?p=6398 to https://www.giridhareye.org/dr-neena-r/
+03:15:55	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-neena-r/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-neena-r/)
+03:15:55	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6402
+03:15:55	Warning: 	File has moved from https://www.giridhareye.org/?p=6402 to https://www.giridhareye.org/dr-ranjini-h/
+03:15:56	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6405
+03:15:56	Warning: 	File has moved from https://www.giridhareye.org/?p=6405 to https://www.giridhareye.org/dr-namitha-v-g/
+03:15:56	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6408
+03:15:56	Warning: 	File has moved from https://www.giridhareye.org/?p=6408 to https://www.giridhareye.org/dr-marian-pauly/
+03:15:56	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-marian-pauly/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-marian-pauly/)
+03:15:56	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6413
+03:15:56	Warning: 	File has moved from https://www.giridhareye.org/?p=6413 to https://www.giridhareye.org/dr-shebin-salim/
+03:15:57	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6418
+03:15:57	Warning: 	File has moved from https://www.giridhareye.org/?p=6418 to https://www.giridhareye.org/dr-neethu-latiff/
+03:15:57	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-neethu-latiff/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-neethu-latiff/)
+03:15:57	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6423
+03:15:57	Warning: 	File has moved from https://www.giridhareye.org/?p=6423 to https://www.giridhareye.org/dr-anna-elias/
+03:15:57	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6426
+03:15:57	Warning: 	File has moved from https://www.giridhareye.org/?p=6426 to https://www.giridhareye.org/dr-pushpa-susan-isaac/
+03:15:58	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6431
+03:15:58	Warning: 	File has moved from https://www.giridhareye.org/?p=6431 to https://www.giridhareye.org/dr-sumana-moorthy/
+03:15:58	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6437
+03:15:58	Warning: 	File has moved from https://www.giridhareye.org/?p=6437 to https://www.giridhareye.org/dr-rosina-thomas/
+03:15:58	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6442
+03:15:58	Warning: 	File has moved from https://www.giridhareye.org/?p=6442 to https://www.giridhareye.org/dr-monica-v-m/
+03:15:58	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6445
+03:15:58	Warning: 	File has moved from https://www.giridhareye.org/?p=6445 to https://www.giridhareye.org/dr-radha-unnikrishnan/
+03:15:59	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6451
+03:15:59	Warning: 	File has moved from https://www.giridhareye.org/?p=6451 to https://www.giridhareye.org/dr-pradeep-kumar/
+03:15:59	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=9497
+03:15:59	Warning: 	File has moved from https://www.giridhareye.org/?p=9497 to https://www.giridhareye.org/dr-joan-karen-meyn/
+03:15:59	Error: 	"Not Found" (404) at link https://www.giridhareye.org/dr-joan-karen-meyn/%22https:/gei.thomsuninfocare.com/wp-content/uploads/2023/02/hero-graphic-2.svg (from https://www.giridhareye.org/dr-joan-karen-meyn/)
+03:16:00	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6229
+03:16:00	Warning: 	File has moved from https://www.giridhareye.org/?p=6229 to https://www.giridhareye.org/specialities/anaesthesia-infection-control/
+03:16:00	Error: 	"Not Found" (404) at link https://gei.thomsuninfocare.com/wp-content/uploads/2024/10/oculoplasty-banner.png (from https://www.giridhareye.org/specialities/anaesthesia-infection-control/)
+03:16:00	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=6235
+03:16:00	Warning: 	File has moved from https://www.giridhareye.org/?p=6235 to https://www.giridhareye.org/cornea-and-refractive-surgery/
+03:16:01	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=7885
+03:16:01	Warning: 	File has moved from https://www.giridhareye.org/?p=7885 to https://www.giridhareye.org/dr-kanchana-giridhar/
+03:16:01	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=10185
+03:16:01	Warning: 	File has moved from https://www.giridhareye.org/?p=10185 to https://www.giridhareye.org/jobs/glaucoma-specialist/
+03:16:01	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D9535 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=9535)
+03:16:01	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D9535&format=xml (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=9535)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/?p=9535 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=9535)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D8380 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=8380)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D8380&format=xml (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=8380)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/?p=8380 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=8380)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D8378 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=8378)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D8378&format=xml (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=8378)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/?p=8378 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=8378)
+03:16:25	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=7156
+03:16:25	Warning: 	File has moved from https://www.giridhareye.org/?p=7156 to https://www.giridhareye.org/jobs/staff-nurse-ot-female/
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D7155 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=7155)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.giridhareye.org%2F%3Fpost_type%3Dawsm_job_openings%26p%3D7155&format=xml (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=7155)
+03:16:25	Error: 	"Not Found" (404) at link https://www.giridhareye.org/?p=7155 (from https://www.giridhareye.org/?post_type=awsm_job_openings&p=7155)
+03:16:26	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=4202
+03:16:26	Warning: 	File has moved from https://www.giridhareye.org/?p=4202 to https://www.giridhareye.org/education-training/deplomate-national-board/
+03:16:26	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=4253
+03:16:26	Warning: 	File has moved from https://www.giridhareye.org/?p=4253 to https://www.giridhareye.org/education-training/extensive-paediatric-fellowship/
+03:16:29	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=5803
+03:16:29	Warning: 	File has moved from https://www.giridhareye.org/?p=5803 to https://www.giridhareye.org/services/visual-evoked-potential-erg/
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/bb-v1.0/fonts/bb.svg?28e02g (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/digital-agency-icon-set-2/fonts/digital.svg?exhcqw (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/hosting-template-v3.0-2/fonts/hosting-template.svg?hbmf06 (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/mechanic-icon-set-2/fonts/mechanic.svg?h09x3l (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/Caterer-Icons-Studio-1/fonts/Caterer-Icons.svg?z2v9fo (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/hosting-template-v3.0-1/fonts/hosting-template.svg?hbmf06 (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/fitness-icon-set-1/fonts/fitness.svg?9jppkm (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/marketing-bold-icon-set-1/fonts/Marketing-Bold.svg?x1m7hf (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/wedding-v1.0-2/fonts/wedding.svg?ux0lvw (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/financial-advisor-icon-set-1/fonts/financial-advisor.svg?sbz7jy (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/digital-agency-icon-set-1/fonts/digital.svg?exhcqw (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/financial-advisor-icon-set/fonts/financial-advisor.svg?sbz7jy (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/fitness-icon-set/fonts/fitness.svg?9jppkm (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/accountant-pro-icon-set-1/fonts/Accountant-Pro.svg?ym7fev (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/accountant-pro-icon-set/fonts/Accountant-Pro.svg?ym7fev (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/hosting-template-v3.0/fonts/hosting-template.svg?hbmf06 (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/user-interface-v1.0-3/fonts/user-interface.svg?55z8ir (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/user-interface-v1.0-2/fonts/user-interface.svg?55z8ir (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/user-interface-v1.0-1/fonts/user-interface.svg?55z8ir (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/digital-agency-icon-set/fonts/digital.svg?exhcqw (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/Caterer-Icons-Studio/fonts/Caterer-Icons.svg?z2v9fo (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/user-interface-v1.0/fonts/user-interface.svg?55z8ir (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/mechanic-icon-set-1/fonts/mechanic.svg?h09x3l (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/mechanic-icon-set/fonts/mechanic.svg?h09x3l (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/business-v1.0-1/fonts/business.svg?rva0v6 (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/marketing-bold-icon-set/fonts/Marketing-Bold.svg?x1m7hf (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/wedding-v1.0-1/fonts/wedding.svg?ux0lvw (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/business-v1.0/fonts/business.svg?rva0v6 (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/wedding-v1.0/fonts/wedding.svg?ux0lvw (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Error: 	"Not Found" (404) at link https://www.giridhareye.org/wp-content/uploads/fusion-icons/coaching-v1.2/fonts/coaching.svg?1vnjwk (from https://www.giridhareye.org/wp-content/uploads/fusion-styles/aa6f7d1f57603e0cf00d01879fa56f0a.min.css?ver=3.11.9)
+03:16:31	Warning: 	Moved Permanently for https://www.giridhareye.org/?p=4258
+03:16:31	Warning: 	File has moved from https://www.giridhareye.org/?p=4258 to https://www.giridhareye.org/education-training/clinical-optometry-fellowship/
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 43 seconds : 1383 links scanned, 1152 files written (261797267 bytes overall) [90531227 bytes received at 140795 bytes/sec], 209221293 bytes transferred using HTTP compression in 913 files, ratio 14%, 31.2 requests per connection
+(134 errors, 192 warnings, 0 messages)
